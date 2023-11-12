@@ -1,6 +1,6 @@
 # Bienvenidos a mi perfil de GitHub
 
-<div style="background-image: url('https://raw.githubusercontent.com/migurm/migurm/main/gif_fondo.gif'); background-size: cover; height: 400px; position: relative;">
+<div style="background-image: url('https://github.com/migurm/migurm/blob/main/gif_fondo.gif'); background-size: cover; height: 400px; position: relative;">
 
   <p align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     <img src="https://github-readme-stats.vercel.app/api?username=migurm&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="migurm's Stats">
